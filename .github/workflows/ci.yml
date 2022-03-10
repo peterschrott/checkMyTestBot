@@ -12,7 +12,6 @@ jobs:
     env:
       IMAGE_NAME: bluerootlabs/checkmytest
       DO_APP_ID: ${{ secrets.DO_APP_ID }}
-      TO_ACCESS_TOKEN: ${{ secrets.DO_ACCESS_TOKEN }}
 
     steps:
       - name: Checkout source code
@@ -27,7 +26,7 @@ jobs:
       - name: Install the digital ocean ctl (doctl) on the runner
         uses: digitalocean/action-doctl@v2
         with:
-          token: $DO_ACCESS_TOKEN
+          token: ${{ secrets.DO_ACCESS_TOKEN }}
 
       - name: Login to doctl
         run: |
