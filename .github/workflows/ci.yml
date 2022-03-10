@@ -27,7 +27,7 @@ jobs:
       - name: Install the digital ocean ctl (doctl) on the runner
         uses: digitalocean/action-doctl@v2
         with:
-          token: $TO_ACCESS_TOKEN
+          token: $DO_ACCESS_TOKEN
 
       - name: Login to doctl
         run: |
