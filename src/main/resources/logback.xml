@@ -1,0 +1,29 @@
+<configuration>
+
+    <appender name="STDOUT" target="System.out" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>[%date{ISO8601}] [%level] [%logger] - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <appender name="ASYNC_STDOUT" class="ch.qos.logback.classic.AsyncAppender">
+        <queueSize>1024</queueSize>
+        <neverBlock>true</neverBlock>
+        <appender-ref ref="STDOUT" />
+    </appender>
+
+    <logger name="akka" level="INFO"/>
+    <logger name="default-akka" level="INFO"/>
+    <logger name="reactivemongo" level="INFO"/>
+    <logger name="algoliasearch" level="INFO"/>
+    <logger name="org.apache" level="INFO"/>
+    <logger name="com.typesafe" level="INFO"/>
+    <logger name="shaded.netty" level="INFO"/>
+    <logger name="io.netty" level="INFO"/>
+    <logger name="org.asynchttpclient" level="INFO"/>
+
+    <root level="DEBUG">
+        <appender-ref ref="ASYNC_STDOUT"/>
+    </root>
+
+</configuration>
