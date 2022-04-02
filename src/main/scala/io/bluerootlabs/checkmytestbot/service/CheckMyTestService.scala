@@ -85,11 +85,26 @@ class CheckMyTestService() {
     eventualResults.map { results =>
       results.map { result =>
         val inlineKbMarkup = InlineKeyboardMarkup(Seq(Seq(SearchAgainInlineKbBtn)))
+
         val idNos = List(Option(result.idNo), result.idNo2, result.idNo3).map(_.filter(_.nonEmpty)).flatMap(l => l)
+
         val idNoStr = if (idNos.isEmpty) "n.a." else idNos.mkString(", ")
+
         val passedSensitivityCriteriaStr =
-          if (result.passedSensitivityCriteria.equals("y")) "✅ Sensitivitätskriterium erfüllen"
+          if (result.passedSensitivityCriteria == "y") "✅ Sensitivitätskriterium erfüllen"
           else "❌ Sensitivitätskriterium NICHT erfüllen"
+
+        val omicronDetectionStr =
+          if (result.omicronDetection == "y") "Erkennt auch Omikron entsprechend der Bridging Prüfung!"
+          else "<b>Keine</b> Omikron Erkennung entsprechend der Bridging Prüfung"
+
+        val targetAntigenStr = {
+          if (result.targetAntigen == "N") "Nukleocapsid Protein"
+          else if (result.targetAntigen == "S") "Spike Protein"
+          else if (result.targetAntigen == "S+N") "Nukleocapsid Protein & Spike Protein"
+          else "n.a."
+        }
+
         val inputMessage =
           s"""
              |<u><b>Dein Test:</b></u>
@@ -100,16 +115,20 @@ class CheckMyTestService() {
              |Ref-Nr.: $idNoStr
              |
              |Sensitivität bei Viruslast
-             | 👉 hoch: ${result.cqLow}
-             | 👉 mäßig: ${result.cqMid}
-             | 👉 gering: ${result.cqHigh}
+             | 👉 hoch: ${result.cqLow} (CQ ≤ 25)
+             | 👉 mäßig: ${result.cqMid} (CQ 25 - 30)
+             | 👉 gering: ${result.cqHigh} (CQ ≥ 30)
              |
              |Gesamt Sensitivität: ${result.totalSensitivity}
              |
-             |$passedSensitivityCriteriaStr
+             |<b>$passedSensitivityCriteriaStr</b>
+             |
+             |🦠 $omicronDetectionStr
+             |
+             |Zielantigen: $targetAntigenStr
              |
              |<i>
-             |Quelle: Paul-Ehrlich-Institut
+             |Quelle: Paul-Ehrlich-Institut (stand: $LastUpdate)
              |</i>
              |""".stripMargin
 
@@ -134,6 +153,8 @@ class CheckMyTestService() {
 
 object CheckMyTestService {
 
+  final val LastUpdate: String = "01.04.2022"
+
   final val FeedbackText: String =
     """
       |Hast du Anregungen oder Feedback? Dann schick sie mir jetzt einfach als Antwort.
@@ -152,18 +173,20 @@ object CheckMyTestService {
       |""".stripMargin.trim
 
   final val InfoText: String =
-    """
+    s"""
       |Dieser Bot zeigt dir Informationen zur Qualität von Corona Schnelltests – auch Selbsttests oder Antigentests genannt – und von Tests aus Testzentren an. 💡
       |
       |Drücke dazu einfach auf "🔎 Test suchen" und gib entweder den <b>Namen</b>, den <b>Hersteller</b> oder die <b>Referenznummer [REF]</b> deines Schnelltests ein. Wähle danach den entsprechenden Test aus den Suchergebnissen.
       |
       |Die angezeigten Informationen stammen aus der vergleichenden Evaluierung der Sensitivität von SARS-CoV-2-Antigenschnelltests des Paul-Ehrlich-Institutes.
       | 👉 https://www.pei.de/DE/newsroom/dossier/coronavirus/testsysteme.html
+      |
+      | Aktualisiert am $LastUpdate
       | """.stripMargin.trim
 
   final val ByText: String =
     """
-      |made with 💙 in Berlin by Peter (blueRootLabs.io)
+      |made with 💙 in Berlin by Peter
       |
       |
       |<i>

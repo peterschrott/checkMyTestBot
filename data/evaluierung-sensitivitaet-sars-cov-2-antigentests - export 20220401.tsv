@@ -1,0 +1,247 @@
+atNo	atNo2	atNoSelfTest	atNoSelfTest2	idNo	idNo2	idNo3	manufacturer	testName	targetAntigen	cqLow	cqMid	cqHigh	totalSensitivity	passedSensitivityCriteria	omicronDetection
+AT005/20				41FK10			Abbott Rapid Diagnostics Jena GmbH	Panbio™ COVID-19 Ag Rapid Test Device (NASOPHARYNGEAL)	N	100,00%	60,90%	0,00%	64,00%	y	y
+AT018/21							Abioteq	Cora Gentest-19	N	100,00%	45,00%	0,00%	58,00%	y	y
+AT084/21				ABT-IDTB367			AccuBioTech Co.,Ltd.	Accu-Tell Rapid In-vitro Diagnostiktest	N	100,00%	75,00%	0,00%	70,00%	y	y
+AT155/20		AT1217/21		L031-11815			ACON Biotech (Hangzhou) Co., Ltd	Flowflex SARS-CoV-2-Antigenschnelltest	N	94,10%	4,30%	0,00%	34,00%	y	y
+AT1024/21							Acro Diagnostics Co., Ltd	SARS-CoV-2 Antigen Rapid Detection Kit (LFA)	N	100,00%	100,00%	80,00%	96,00%	y	n
+AT363/20				840001			Aesku Diagnostics GmbH	Aesku Rapid SARS-CoV-2 Rapid Test	N	82,40%	17,40%	0,00%	36,00%	y	y
+AT181/21				1166-25			Affimedix	TestNOW® COVID-19-Antigen-Test	N	100,00%	47,80%	0,00%	58,00%	y	y
+AT303/20				RICOV2			Amazing Biotech (Shanghai) Co., Ltd	CoroVisio Covid-19 Ag Versieglungsröhrchen Teststreifen (Kolloidales Gold)	N	76,50%	8,70%	0,00%	30,00%	y	y
+AT033/20				RT2952			Ameda Labordiagnostik GmbH	AMP Rapid Test SARS-CoV-2 Ag	N	100,00%	78,30%	0,00%	70,00%	y	n
+AT412/21				MU00325			Amper,Inc.	Amper COVID-19 Antigen Rapid Testing Kit (Colloidal Gold)	N	100,00%	100,00%	40,00%	88,00%	y	y
+AT147/20		AT1332/21	AT1333/21	A6061202			Anbio (Xiamen) Biotechnology Co., Ltd	Rapid Covid-19 Antigen Test (Colloidal Gold )	N	100,00%	52,20%	0,00%	58,00%	y	n
+AT031/20		AT1190/21	AT1288/21				Anhui Deepblue Medical Technology Co. , Ltd.	COVID-19 (SARS CoV-2) Antigen Test Kit (Colloidal Gold)	N	100,00%	39,10%	0,00%	52,00%	y	y
+AT785/21				FCB-103			Anhui Formaster Biosci Co., Ltd	New Coronavirus (COVID-19) Antigen Rapid Test	N	100,00%	50,00%	10,00%	62,00%	y	y
+AT518/20				A03-50-422			Artron Laboratories Inc.	COVID-19 Antigentest	N	100,00%	95,00%	20,00%	82,00%	y	n
+AT431/20				AM3474-K			ASAN PHARM.CO.,LTD.	Asan Easy Test COVID-19 Ag	N	100,00%	69,60%	0,00%	66,00%	y	y
+AT1030/21		AT1354/21		COV-S23			Assure Tech (Hangzhou) Co.,Ltd	ECOTEST COVID-19 Antigen Rapid Test Device	N	95,00%	50,00%	0,00%	58,00%	y	y
+AT791/21				MY28			Asterion Otel Insaat Bilisim Medikal Maden Tic.Ltd.Sti.	AS-check COVID-19 Antigen Schnelltest	N	85,00%	5,00%	0,00%	36,00%	y	y
+AT132/20				nCOV-500			Atlas Link Technology Co.,Ltd.	Nova Test SARS-CoV-2 Antigen Rapid Test Kit	N	100,00%	60,90%	0,00%	62,00%	y	n
+AT441/20				8004664			Avalun	Ksmart® SARS-COV2 Antigen Rapid Test	N	94,10%	13,00%	0,00%	38,00%	y	n
+AT374/20				88 99 19			AXIOM Gesellschaft für Diagnostica und Biochemica mbH	Axiom Diagnostics COVID-19 Ag Schnelltest	N	100,00%	52,20%	0,00%	58,00%	y	n
+AT061/20				B62000			Azure Biotech Inc.	Dia Sure Covid-19 Antigen Rapid Test Device (Nasopharyngeal/Oropharyngeal Swab)	N	76,50%	13,00%	20,00%	36,00%	y	y
+AT074/20		AT1285/21	AT1286/21				Beijing Beier Bioengineering Co., Ltd.	Covid-19 Antigen Schnelltest	N	77,80%	0,00%	0,00%	28,00%	y	y
+AT967/21				P2311			Beijing Homa Biological Engineering Co., Ltd.	COVID-19 Antigen Test Kit	N	100,00%	35,00%	0,00%	54,00%	y	y
+AT120/20		AT1236/21					Beijing Hotgen Biotech Co., Ltd.	Novel Coronavirus 2019-nCoV Antigen Test (Colloidal gold)	N	100,00%	47,80%	0,00%	56,00%	y	y
+AT205/20				C3042			Beijing Jinwofu Bioengineering Technology Co.,Ltd.	Jinwofu Novel Coronavirus (SARS-COV-2) Antigen Rapid Test Kit	N	100,00%	50,00%	0,00%	60,00%	y	y
+AT313/20				601460			Beijing Kewei Clinical Diagnostic Reagent Inc.	COVID-19 Antigen Rapid Test Kit	N	95,00%	0,00%	0,00%	38,00%	y	y
+AT216/20	AT052/20						Beijing Lepu Medical Technology Co., Ltd	SARS-CoV-2 Antigen Rapid Test Kit	N	100,00%	26,10%	0,00%	46,00%	y	n
+AT820/21				00013C			Beijing O&D Biotech Co., Ltd.	Covid-19 Antigen Rapid Test (Colloidal Gold)	N	100,00%	75,00%	10,00%	72,00%	y	y
+AT122/21				TG1417			Beijing Tigsun Diagnostics Co.;Ltd.	Tigsun COVID-19 Saliva Antigen Rapid Test	N	100,00%	87,00%	30,00%	80,00%	y	y
+AT022/21				WJ-2850			Beijing Wantai Biological Pharmacy Enterprise Co., Ltd.	Wantai SARS-CoV-2 Ag Rapid Test (FIA)	N	100,00%	78,30%	0,00%	72,00%	y	n
+AT496/20		AT1265/21		WJ-2910			Beijing Wantai Biological Pharmacy Enterprise Co., Ltd.	Wantai SARS-CoV-2 Ag Schnelltest (Kolloidales Gold)	N	100,00%	25,00%	0,00%	50,00%	y	n
+AT284/21				B255C			Biocan Diagnostics Inc.	Tell Me Fast Rapid Diagnostic Test	N	95,00%	10,00%	0,00%	42,00%	y	n
+AT787/21				GMT102			BioDetect (Xiamen) Biotechnology Co., Ltd	SARS-Cov-2-Antigen-Schnelltest-Karte	N	95,00%	15,00%	0,00%	44,00%	y	y
+AT879/21				209.01.25.01			Biohit Healthcare (Hefei) Co., Ltd.	SARS-CoV-2 Antigen Rapid Test (Colloidal Gold Method)	N	100,00%	95,00%	20,00%	82,00%	y	y
+AT172/21				1-367-K020			BioMaxima S.A.	SARS-CoV-2 Ag Rapid Test	N	100,00%	60,00%	0,00%	64,00%	y	y
+AT007/21				1509A-I			BIOMERICA Inc.	COVID-19-Antigen-Schnelltest (Nasopharyngeal-Abstrich)	N	100,00%	30,40%	0,00%	48,00%	y	n
+AT014/20				RG1901DG			BIONOTE	NowCheck® COVID-19 Ag Test	N	100,00%	65,20%	0,00%	66,00%	y	y
+AT219/20				COV-201			BioRepair GmbH	Covid 19 Antigen Schnelltest	N	100,00%	78,30%	0,00%	70,00%	y	n
+AT805/21							Bioscience (Tianjin) Diagnostic Technology Co., Ltd	Novel Coronavirus(2019-nCoV) Antigen Rapid Test	N	100,00%	100,00%	60,00%	92,00%	y	n
+AT025/20				SW4000605			BIOSYNEX SWISS SA	BIOSYNEX COVID-19 Ag BSS	N	100,00%	78,30%	11,10%	74,00%	y	n
+AT349/21				400-678-8982			BioTeke Corporation (Wuxi) Co.,Ltd.	SARS-CoV-2 Antigen Test Kit (Colloidal Gold Method)	N	95,00%	10,00%	0,00%	42,00%	y	y
+AT373/20				COV-19C25			BTNX, Inc.	Rapid Response COVID-19 Rapid Test Device	N	94,10%	13,00%	10,00%	40,00%	y	n
+AT924/21				C2104N01			Cesna Biyoteknoloji Arastirma Gelistirme Laboratuvar Sist.	Check Up SARS-CoV-2 Nasal Antigen Rapid Test	N	100,00%	45,00%	10,00%	60,00%	y	y
+AT1010/21							Changzhou Biowin Pharmaceutical Co.,Ltd.	Novel Coronavirus(COVID-19) Antigen Test Kit (Colloidal Gold)	N	100,00%	35,00%	0,00%	54,00%	y	n
+AT337/20				CCOV-201			Chil Tibbi Mal. San. Tic. Ltd. Şti	COVID-19 Antigen Schnell Test (Nasopharyngeal / Oropharyngeal Tupfer Kassette)	N	100,00%	60,90%	0,00%	62,00%	y	n
+AT635/21							Chongqing ISIA BIO-Technology Co.,Ltd	ISIA SARS-CoV-2 Antigen Rapid Test Kit	N	90,00%	15,00%	0,00%	42,00%	y	n
+AT595/21							Chongqing M&D Biotechnology Co. Ltd.	2019-nCoV Antigen Test Kit	N	95,00%	25,00%	0,00%	48,00%	y	n
+AT889/21							CITEST Diagnostics Inc.	COVID-19 Antigen Rapid Test (Oral Fluid)	N	100,00%	100,00%	90,00%	98,00%	y	y
+AT409/20				7200331			Co-Innovation Biotech Co. Ltd	Whole Power One Step 2019-Novel Coronavirus(2019-nCoV) Antigen Test	N	100,00%	20,00%	0,00%	48,00%	y	y
+AT498/20				1100-5330			Convergent Technologies	Convergys® COVID-19 Rapid Antigen Test	N	100,00%	35,00%	10,00%	56,00%	y	n
+AT267/20							Core Technology Co., Ltd.	Canea COVID-19 Antigen Schnelltest	N	88,20%	26,10%	0,00%	42,00%	y	n
+AT390/21				R0182C			CTK Biotech, Inc.	OnSite COVID-19 Ag Rapid Test	N	100,00%	50,00%	0,00%	60,00%	y	y
+AT085/21				CV19IC			DNA Diagnostic A/S.	Covid-19 Antigen Detection Kit	N	100,00%	39,10%	10,00%	54,00%	y	n
+AT1173/21		AT1189/21		3715270			Dräger Safety AG & Co. KGaA	Dräger Antigen Test SARS-CoV-2	N	95,00%	10,00%	0,00%	42,00%	y	y
+AT342/21				DNK-1425-1			Dynamiker Biotechnology (Tianjin) Co., Ltd.	Dynamiker SARS-CoV-2 AG Rapid Test	N	100,00%	100,00%	60,00%	92,00%	y	y
+AT032/20				EGCV0101B			Edinburgh Genetics Limited	Edinburgh Genetics ActivXpress+ COVID-19 Antigen Complete Testing Kit	N	100,00%	34,80%	0,00%	50,00%	y	n
+AT491/20				EBS 1020			Eurobio Scientific	EBS SARS-CoV-2 Ag Rapid Test	N	94,10%	34,80%	0,00%	48,00%	y	y
+AT767/21				PCSYHN02			Fosun Diagnostics (Shanghai) Co., Ltd (ehemals Shanghai Fosun Long March Medical Science Co., Ltd.)	Fosun Covid-19 Ag Card	N	100,00%	20,00%	0,00%	48,00%	y	y
+AT587/21				16696722			FUJIFILM Corporation	FUJIFILM COVID-19 Ag Test	N	85,00%	10,00%	0,00%	38,00%	y	n
+AT029/20				231906			Fujirebio Inc. (Mast Diagnostica GmbH)	ESPLINE® SARS-CoV-2	N	100,00%	21,70%	0,00%	46,00%	y	n
+AT019/20				COVAG025			GenBody Inc.	GenBody COVID-19 Ag	N	94,40%	26,10%	0,00%	46,00%	y	n
+AT1100/21				CoVSLFA-20			Genobio Pharmaceutical Co., Ltd.	Virusee® SARS-CoV-2 Antigen Rapid Test (Colloidal Gold) (Saliva/Swab)	N	100,00%	95,00%	40,00%	86,00%	y	n
+AT111/20		AT1200/21		52026075			Genrui Biotech Inc.	Genrui SARS-CoV-2 Antigen Test Kit (Colloidal Gold)	N	94,10%	56,50%	0,00%	58,00%	y	n
+AT161/20				P2004			GenSure Biotech Inc.	DIA-COVID® COVID-19 Ag Rapid Test Kit	N	94,10%	13,00%	0,00%	38,00%	y	y
+AT166/20		AT1257/21		CG2061			Getein Biotech, Inc.	One Step Test for SARS-CoV-2 Antigen (Colloidal Gold)	N	100,00%	82,60%	0,00%	72,00%	y	n
+AT755/21				600008			Glallergen CO., LTD.	Novel Corona Virus (2019-nCoV) Ag Rapid Test Kit	N	100,00%	100,00%	60,00%	92,00%	y	n
+AT533/21		AT1295/21		CG123005			Goldsite Diagnostics Inc.	Goldsite COVID-19 SARS-CoV-2 Antigen Kit (Colloidal Gold)	N	100,00%	35,00%	0,00%	54,00%	y	y
+AT018/20							Green Cross Medical Science Corp. (Weko Pharma GmbH)	Genedia W Covid-19 Ag	N	83,30%	8,70%	0,00%	34,00%	y	n
+AT542/20							Guangdong Hecin Scientific,Inc.	2019-nCoV Antigen Test Kit (colloidal gold method)	N	82,40%	13,00%	0,00%	34,00%	y	n
+AT731/21				LS-C-T-009			Guangdong Longsee Biomedical Co.,Inc.	Longsee 2019-nCoV Ag Rapid Detection Kit (Immuno-Chromatography)	N	100,00%	100,00%	100,00%	100,00%	y	y
+AT086/20		AT1158/21		BE0040			Guangdong Wesail Biotech Co., Ltd.	COVID-19 Ag Test Kit	N	100,00%	52,20%	11,10%	62,00%	y	y
+AT582/21							Guangzhou Tebsun Bio-Tech Development Co., Ltd.	Tebsun 2019-nCoV Antigen Test Kit	N	95,00%	65,00%	0,00%	64,00%	y	n
+AT125/20				W196			Guangzhou Wondfo Biotech Co. Ltd	Wondfo SARS-CoV-2 Antigen Test (Lateral Flow Method)	N	88,20%	0,00%	0,00%	30,00%	y	y
+AT276/21		AT1117/21		ICOV-802			Hangzhou AllTest Biotech Co., Ltd.	Covid-19 Antigen Rapid Test (Oral fluid)	N	100,00%	55,00%	0,00%	62,00%	y	y
+AT766/21		AT1172/21		INCP-502-N			Hangzhou AllTest Biotech Co.,Ltd.	AllTest SARS-CoV-2 Antigen Rapid Test (Nasal Swab)	N	90,00%	20,00%	0,00%	44,00%	y	y
+AT568/21		AT1331/21		302281			Hangzhou Biotest Biotech Co., Ltd	Sienna COVID-19 Antigen-Schnelltestkassette (Nasenabstrich)	N	100,00%	95,00%	60,00%	90,00%	y	y
+AT825/21							Hangzhou Careomedic Tech Co., Ltd.	SARS-CoV-2-Antigen-Schnelltest	N	75,00%	0,00%	0,00%	30,00%	y	y
+AT079/20							Hangzhou Clongene Biotech Co., Ltd.	Clungene COVID-19 Antigen Rapid Test	N	94,40%	34,80%	0,00%	50,00%	y	y
+AT816/21							Hangzhou DIAN Biotechnology Co., Ltd.	GENEDIAN COVID-19 Antigen Test Cassette	N	90,00%	5,00%	0,00%	38,00%	y	y
+AT415/21							Hangzhou Funworld Biotech. Co., Ltd	SARS-CoV-2-Antigen-Schnelltestgerät	N	100,00%	75,00%	0,00%	70,00%	y	y
+AT818/21				P211138			Hangzhou Genesis Biodetection & Biocontrol Co., Ltd.	KaiBiLi COVID-19 Antigen Pro	N	100,00%	90,00%	0,00%	76,00%	y	n
+AT228/20		AT1350/21		YMC050G			Hangzhou Immuno Biotech Co.,Ltd.	IMMUNOBIO SARS-CoV-2 Antigen-Schnelltest (COVID-19 Ag)	N	88,20%	13,00%	0,00%	36,00%	y	n
+AT961/21							Hangzhou Jucheng Medical Products Co., Ltd	SARS-CoV-2 Ag Schnelltestkit	N	100,00%	100,00%	80,00%	96,00%	y	y
+AT011/20		AT1228/21					Hangzhou Laihe Biotech Co., Ltd. (Lissner Qi GmbH)	Lyher Novel Coronavirus (COVID-19) Antigen Test Kit (Colloidal Gold)	N	94,40%	17,40%	0,00%	42,00%	y	y
+AT060/20				COV-201			Hangzhou Lysun Biotechnology Co., Ltd.	Lysun COVID-19 Antigen Rapid Test Device (Colloidal Gold)	N	100,00%	78,30%	0,00%	70,00%	y	y
+AT628/21		AT1269/21		COVG-602			Hangzhou Sejoy Electronics & Instruments Co.,Ltd.	SARS-CoV-2 Antigen Schnelltestkassette	N	100,00%	50,00%	0,00%	60,00%	y	y
+AT082/20							Hangzhou Testsea Biotechnology Co., Ltd	Testsealabs® Rapid Test Kit COVID-19 Antigen Test Cassette	N	100,00%	47,80%	0,00%	56,00%	y	n
+AT821/21				IFC-SCoV2-AG			Hangzhou Zheda Dixun Biological Gene Engineering Co., Ltd.	SARS-Cov-2 Nucleocapsid(N) Antigen Rapid Test Cassette	N	100,00%	55,00%	0,00%	62,00%	y	n
+AT934/21				G-C-0104			Hangzhou Zheda Dixun Biological Gene Engineering Co., Ltd.	Bisdeal SARS-CoV-2 Antigen-Schnelltest	N	100,00%	25,00%	0,00%	50,00%	y	n
+AT001/20		AT1208/21		GCCOV-502a-H5			Healgen Scientific Limited Liability Company (Siemens Healthineers)	CLINITEST® Rapid COVID-19 Antigen Test	N	100,00%	87,00%	0,00%	76,00%	y	n
+AT563/21				HYT-G01			Hoyotek Biomedical Co., Ltd.	Corona Virus (COVID-19) Antigen Rapid Test (Colloidal Gold)	N	90,00%	10,00%	0,00%	40,00%	y	y
+AT1076/21							Hubei Jinjian Biology Co.,Ltd.	SARS-CoV-2 Antigen Test Kit (Colloidal Gold Method)	N	100,00%	65,00%	0,00%	66,00%	y	n
+AT083/20				ACOVA-7025			Humasis Co., Ltd.	Humasis COVID-19 Ag Test	N+S	88,20%	21,70%	0,00%	40,00%	y	n
+AT637/21				BT1389			Innova Medical Group,Inc.	INNOVA SARS-CoV-2 Selbsttest (Qualitativer-Antigen-Schnelltest)	N	100,00%	100,00%	80,00%	96,00%	y	n
+AT1073/21							Innovation Biotech (Beijing) Co. LTD	INVBIO One Step Diagnostic Rapid Test Cassette	N	100,00%	100,00%	70,00%	94,00%	y	y
+AT247/21							Innovation Biotech (Beijing) Co.,Ltd	INVBIO Antigen Rapid Test Device (Saliva)	N	95,00%	25,00%	0,00%	48,00%	y	y
+AT199/21							Innovita (Tangshan) Biological Technology Co.; LTD.	2019-nCoV Ag Test (Latex Chromatography Assay)	N	85,00%	5,00%	0,00%	36,00%	y	y
+AT981/21	AT574/21			ITP16010-TC25			InTec Products, Inc.	Rapid SARS-CoV-2 Antigen Test Colloidal Gold (Nasopharyngeal/Nasal specimen)	N	100,00%	95,00%	30,00%	84,00%	y	y
+AT849/21							Jiangsu Bioperfectus Technologies Co., Ltd.	Novel Coronavirus (SARS-CoV-2) Ag Rapid Test Kit	N	100,00%	75,00%	0,00%	70,00%	y	y
+AT418/20							Jiangsu Diagnostics Biotechnology Co., Ltd	COVID-19 Antigen Rapid Test Cassette (Colloidal Gold)	N	100,00%	78,30%	0,00%	68,00%	y	y
+AT231/20							Jiangsu Konsung Bio-Medical Science And Technology Co., Ltd	Konsung COVID-19 Antigen Rapid Test Kit	N	100,00%	70,00%	30,00%	74,00%	y	y
+AT244/20		AT1298/21		1031-02			Jiangsu Medomics Medical Technology Co., Ltd	SARS-CoV-2-Antigen-Testkit (LFIA)	N	94,10%	21,70%	0,00%	42,00%	y	y
+AT1082/21				R220T001B0C0			Jiangsu Mole Bioscience Co., Ltd	SARS-CoV-2 Antigen Test Cassette	N	100,00%	65,00%	0,00%	66,00%	y	y
+AT883/21				CO-05			Jiangsu Well Biotech Co., Ltd.	COVID-19 Schnelltestgerät	N	100,00%	95,00%	40,00%	86,00%	y	n
+AT770/21							Jiangxi Province JinHuan Medical Instrument Co.,LTD.	COVID-19 antigen Schnelltest (Kolloidales Gold) / Novel Coronavirus(SARS-CoV-2) Antigen Rapid Detection Kit	N	100,00%	95,00%	60,00%	90,00%	y	y
+AT882/21							Jiaxing Wisetest Bio-Tech Co., Ltd.	Saliva SARS-CoV-2 (2019-nCoV) Antigen Test Kit (Nanocarbon Assay)	N	85,00%	15,00%	10,00%	42,00%	y	n
+AT559/21							Jinan Babio Biotechnology Co., Ltd.	SARS-CoV-2 Antigen Rapid Detection Kit (Colloidal Gold Method)	N	100,00%	35,00%	0,00%	54,00%	y	y
+AT236/20		AT1276/21					Joinstar Biomedical Technology Co., Ltd  (CIV care impuls Vertrieb)	COVID-19 Antigen Schnelltest (Colloidal Gold)	N	100,00%	60,90%	0,00%	64,00%	y	y
+AT527/20				COV-AG-20	G10313		JOYSBIO (Tianjin) Biotechnology Co., Ltd.	SARS-CoV-2 Antigen Rapid Test Kit (Colloidal Gold) SPUCKTEST	N	100,00%	90,00%	0,00%	76,00%	y	n
+AT692/21				G10322			JOYSBIO (Tianjin) Biotechnology Co.,Ltd.	Joysbio SARS-CoV-2 Antigen rapid test kit -PRO (Colloidal Gold)	N	100,00%	35,00%	0,00%	54,00%	y	n
+AT127/20		AT1284/21	AT1155/21	B63000			Labnovation Technologies, Inc.	Labnovation SARS-CoV-2 Antigen Rapid Test Kit (Immunochromatography)	N	94,10%	17,40%	0,00%	40,00%	y	y
+AT1054/21							Lifecosm Biotech Limited	COVID-19 Rapid Test Cassette Antigen Test Kit	N	100,00%	100,00%	100,00%	100,00%	y	y
+AT455/20				PR210101			Lumigenex (Suzhou) Co., Ltd.	PocRoc SARS-CoV-2, Antigen Schnelltest Set (Kolloidales Gold)	N	100,00%	65,20%	0,00%	64,00%	y	n
+AT151/20				71110			LumiQuick Diagnostics, Inc.	Quick Profile Covid-19 Antigen Test Card	N	100,00%	91,30%	20,00%	80,00%	y	y
+AT075/20				SPEC-32312 R2 ART-00571 R4			LumiraDX	LumiraDx SARS-CoV-2 Ag Test	N	100,00%	52,20%	0,00%	60,00%	y	y
+AT012/20				76748			MEDsan GmbH	MEDsan® SARS-CoV-2 Antigen Rapid Test	N	100,00%	47,80%	0,00%	58,00%	y	n
+AT214/20				CP01810011			Merlin Biomedical (Xiamen) Co., Ltd.	SARS-CoV-2 Antigen Rapid Test Cassette	N	100,00%	82,60%	0,00%	72,00%	y	n
+AT790/21				CP02150011			Merlin Biomedical (Xiamen) Co., Ltd.	SARS-CoV-2 Antigen Rapid Test Cassette	N	100,00%	55,00%	0,00%	62,00%	y	n
+AT047/20				0230005SP			Mölab GmbH	mö-screen Corona Antigen Test	N	100,00%	47,80%	0,00%	58,00%	y	n
+AT198/20				07AG6020B			MP Biomedicals Germany GmbH	Rapid SARS-CoV-2 Antigen Test Card	N	100,00%	43,50%	0,00%	54,00%	y	n
+AT823/21		AT1281/21		0000000168			MSP bodmann GmbH	MSP SARS-CoV-2 Antigen-Schnelltest	N	100,00%	20,00%	0,00%	48,00%	y	n
+AT021/20		AT1293/21		243103N-20			nal von minden gmbh	NADAL® COVID-19 Ag Schnelltest	N	83,30%	13,00%	0,00%	36,00%	y	y
+AT593/21				500200			Nanjing Liming Bio-Products Co., Ltd.	StrongStep®  SARS-COV2 Antigen Rapid Test	N	95,00%	80,00%	0,00%	70,00%	y	y
+AT462/20							Nanjing Norman Biological Technology Co., Ltd	Novel Coronavirus (2019-nCOV) Antigen Testing Kit (Colloidal Gold)	N	94,10%	26,10%	0,00%	44,00%	y	y
+AT678/21				RQ005			Nanjing Synthgene Medical Technology Co., Ltd.	Synthgene Neues Coronavirus (SARS-CoV-2) Antigen-Schnellerkennungskit (Collate Gold-Methode)	N	100,00%	35,00%	0,00%	54,00%	y	n
+AT255/20				C8602C			Nanjing Vazyme Medical Technology Co., Ltd.	Vazyme SARS-CoV-2 Antigen Detection Kit (Colloidal Gold-Based)	N+S	85,00%	5,00%	0,00%	36,00%	y	n
+AT090/20				FRC0G 020P			NanoEntek Inc	FREND™ COVID-19 Ag	N	88,20%	8,70%	0,00%	34,00%	y	n
+AT517/20				17252668			Nantong Diagnos Biotechnology Co., Ltd.	COVID-19 Antigen Saliva Test Kit (Colloidal Gold)	N	100,00%	56,50%	0,00%	60,00%	y	y
+AT425/21							Nantong Egens Biotechnology	SARS-CoV-2 Antigen Rapid Test	N	100,00%	100,00%	50,00%	90,00%	y	n
+AT722/21				SVRAG			Neo-nostics (Suzhou) Bioengeneering Co., Ltd.	COVID 19 Antigen Test Kit (Colloidal Gold Method)	N	100,00%	75,00%	10,00%	72,00%	y	n
+AT331/21		AT1210/21		COVID-19-NG08			New Gene (Hangzhou) Bioengineering Co., Ltd.	Covid-19-Antigen-Testkit	N	100,00%	87,00%	20,00%	78,00%	y	y
+AT989/21				NBMLRS-XG-S2			Ningbo Beautiful Life Medical Biotechnology	Saliva SARS-CoV-2(2019-nCoV) Antigen Test Kit (Nanocarbon Assay)	N	100,00%	35,00%	0,00%	54,00%	y	n
+AT036/21		AT034/22		MY28			Novatech Tibbi Cihaz Ürünleri San. Ve Tic.A.S.	novacheck®-Ag SARS-CoV-2 Covid-19 Antigen Rapid Test	N	94,10%	21,70%	0,00%	42,00%	y	n
+AT117/20				CAT-01			Oncosem Onkolojik Sistemler San. Ve Tic.A.S.	CAT Antigen Covid Rapid Test	N	94,10%	30,40%	0,00%	46,00%	y	n
+AT538/20				COV04S			PCL, Inc.	PCL COVID19 Ag Gold Saliva	N	100,00%	52,20%	0,00%	58,00%	y	y
+AT209/20		AT002/22					PerGrande BioTech Development Co., Ltd.	SARS-CoV-2 Antigen Detection Kit (Colloidal Gold Immunochromatographic Assay)	N+S	100,00%	17,40%	0,00%	42,00%	y	n
+AT078/20				PR-FC13			Precision Biosensor Inc. (Axon Lab AG)	Exdia COVID-19-Ag-Test	N	100,00%	60,90%	0,00%	64,00%	y	y
+AT376/20				V1330			ProGnosis Biotech	Rapid Test Ag 2019-nCoV	N	94,10%	65,20%	10,00%	64,00%	y	n
+AT863/21							Pro-med (Beijing) Technology Co.,Ltd.	Pro-med COVID-19 Antigen Rapid Detection Kit	N	80,00%	5,00%	0,00%	34,00%	y	n
+AT935/21							Qingdao AIBO Diagnostic CO., Ltd.	Novel Coronavirus (COVID-19) Antigen Rapid Test Kit	N	100,00%	20,00%	0,00%	48,00%	y	y
+AT320/20		AT1224/21		H100G			Qingdao Hightop Biotech Co., Ltd.	Hightop SARS-CoV-2 (Covid-19) Antigen Rapid Test	N	100,00%	43,50%	0,00%	54,00%	y	y
+AT008/20				N6803			R-Biopharm AG	RIDA®QUICK SARS-CoV-2 Antigen	N	100,00%	17,40%	0,00%	44,00%	y	n
+AT199/20				COV Ag-6012			Safecare Biotech Hangzhou Co., Ltd.	Safecare COVID-19 Ag Rapid Test Kit (Swab)	N	100,00%	60,90%	0,00%	62,00%	y	y
+AT106/20				COV-06-S			Salofa OY	salocor SARS-CoV-2 Antigen Rapid Test Cassette (Nasopharyngeal swab)	N	82,40%	13,00%	0,00%	34,00%	y	n
+AT506/21				S3109E			Sansure Biotech Inc.	SARS-CoV-2 Rapid Antigen Test (Colloidal Gold Method)	N	100,00%	25,00%	0,00%	50,00%	y	y
+AT069/20				34			ScheBo Biotech AG	ScheBo SARS-CoV-2 Quick Antigen	N	100,00%	91,30%	10,00%	78,00%	y	y
+AT023/20	AT004/20	AT1154/21		Q-NCOV-01G	9901-NCOV-01G		SD Biosensor, Inc.(Roche Diagnostics GmbH)	STANDARD Q COVID-19 Ag Test (SARS-CoV-2 Rapid Antigen Test)	N	88,90%	30,40%	0,00%	46,00%	y	y
+AT022/20				F-NCOV-01G			SD Biosensor, Inc.	STANDARD F COVID-19 Ag FIA	N	100,00%	65,20%	0,00%	66,00%	y	y
+AT1064/21				2.13.1.587			Senova Gesellschaft für Biowissenschaft und Technik mbH	GreenLight SARS-CoV-2 Antigen-Test	N	95,00%	10,00%	0,00%	42,00%	y	n
+AT918/21		AT1291/21	AT1338/21	SCVC02			SGA Mühendislik DAN. EG. Icve DIS.Ltd.STI	V-Chek SARS-CoV-2 Rapid Ag Test Kit (Colloidal Gold)	N	94,10%	26,10%	0,00%	44,00%	y	y
+AT748/21							Shanghai Liangrun Biomedicine Technology Co., Ltd.	LionRun™ SARS-CoV-2 Antigen Rapid Test Kit (Lateral Flow Immunoassay)	N	100,00%	85,00%	0,00%	74,00%	y	y
+AT857/21							Shen Zhen Zi Jian Biotechnology Co., Ltd.	Zijian SARS-CoV-2 (COVID-19) Antigen Rapid Detection Kit (Lateral Flow Method)	N	80,00%	10,00%	0,00%	36,00%	y	y
+AT928/21				CG201A			Shenzhen CAS-Envision Medical Technology Co., Ltd.	SARS-Cov-2 Antigen Rapid Detection Kit	N	100,00%	100,00%	70,00%	94,00%	y	y
+AT260/21							Shenzhen Dymind Biotechnology Co., Ltd.	SARS-CoV-2 Antigen Test Kit (Colloidal Gold)	N	100,00%	30,00%	0,00%	52,00%	y	n
+AT829/21							Shenzhen Dymind Biotechnology Co., Ltd.	SARS-CoV-2 Antigen Test Kit (Colloidal Gold)	N	100,00%	30,00%	0,00%	52,00%	y	n
+AT458/21				HRK-6820			Shenzhen Huaree Technology Co., Ltd.	SARS-CoV-2 Antigen Saliva Rapid Test Kit	N	100,00%	90,00%	10,00%	78,00%	y	n
+AT424/21				HRK-6620			Shenzhen Huaree Technology Co.,Ltd.	SARS-CoV-2 Antigen Rapid Test Kit (Immunochromatography)	N	100,00%	45,00%	0,00%	58,00%	y	n
+AT472/21				203-020			Shenzhen Huian Biosci Technology Co., Ltd.	SARS-CoV-2Antigen Test Kit (Colloidal Gold)	N	100,00%	60,00%	0,00%	64,00%	y	y
+AT1065/21				808151-1			Shenzhen Kang Sheng Bao Bio- Technology Co., Ltd.	SARS-CoV-2 Antigen Rapid Test (Lateral Flow Assay)	N	95,00%	10,00%	0,00%	42,00%	y	y
+AT1019/21				150129			Shenzhen Kingfocus Biomedical Engineering Co., Ltd.	COVID-19 Antigen Detection Kit (Quantum Dots-Based Immunofluorescence Chromatography)	N	100,00%	95,00%	60,00%	90,00%	y	y
+AT420/21				K602-20			Shenzhen Kisshealth Biotechnology Co., Ltd.	KISSH SARS-CoV-2 Antigen Test Kit (GICA)	N	100,00%	85,00%	10,00%	76,00%	y	n
+AT417/20							Shenzhen Lvshiyuan Biotechnology Co., Ltd.	Green Spring SARS-CoV-2 Antigen Rapid Test Kit (Colloidal Gold)	N	100,00%	95,70%	40,00%	86,00%	y	n
+AT070/20				MF-60			Shenzhen Microprofit Biotech Co., Ltd.	fluorecare COVID-19 SARS-CoV-2 Spike Protein Test Kit (Colloidal Gold Chromatographic Immunoassay)	S	100,00%	47,80%	10,00%	58,00%	y	n
+AT071/20				MF-63			Shenzhen Microprofit Biotech Co., Ltd.	SARS-CoV-2 Spike Protein Test Kit (Fluorescence Immunoassay)	S	100,00%	85,00%	10,00%	76,00%	y	n
+AT544/21		AT1308/21		MF-68			Shenzhen Microprofit Biotech Co., Ltd.	fluorecare SARS-CoV-2 Antigen Test Kit	N	90,00%	15,00%	0,00%	42,00%	y	y
+AT844/21				RNS92048B			Shenzhen Reagent Technology Co., Ltd.	SARS-CoV-2 Antigen IVD kit SWAB	N+S	100,00%	50,00%	0,00%	60,00%	y	y
+AT108/20		AT004/22		LFA0401-25N			Shenzhen Watmind Medical Co., Ltd.	SARS-CoV-2 Ag Diagnostic Test Kit (Colloidal Gold)	N	100,00%	95,70%	20,00%	82,00%	y	y
+AT385/20				LFB0401-25N			Shenzhen Watmind Medical Co., Ltd.	SARS-CoV-2 Ag Diagnostic Test Kit (Immunofluorescence)	N	100,00%	60,90%	0,00%	62,00%	y	y
+AT409/21				G86247			Shenzhen YHLO Biotech Co., Ltd.	GLINE-2019-nCoV Ag	N	90,00%	30,00%	0,00%	48,00%	y	y
+AT211/20							Shenzhen Zhenrui Biotech Co., Ltd.	Zhenrui COVID-19 (SARS-COV-2) Antigen Test Kits	N	82,40%	13,00%	0,00%	34,00%	y	n
+AT941/21				T3701W	T3702W	T3706W	Sichuan Xincheng Biological Co., Ltd.	SARS-CoV-2 Antigen Assay Kit by Latex Immunochromatography method	N	100,00%	95,00%	40,00%	86,00%	y	n
+AT837/21				SP-SW 106			Spring Healthcare Services Sp zoo	SARS-CoV-2 Antigen Schnelltestkassette (Abstrich)	N	100,00%	70,00%	0,00%	68,00%	y	y
+AT010/20				CAGT025E0			Sugentech, Inc.	SGTi-flex COVID-19 Ag	N	100,00%	73,90%	0,00%	68,00%	y	n
+AT789/21				COVID19AGVCG			SureScreen Diagnostics Ltd.	COVID-19 Antigen Rapid Test Cassette (Nasal Swab)	N	100,00%	20,00%	0,00%	48,00%	y	n
+AT765/21							Surge Medical Inc.	COVID-19 Antigen Test Kit	N	100,00%	40,00%	0,00%	56,00%	y	y
+AT830/21							Suzhou Soochow University Saier Immuno Biotech Co., Ltd.	InstantSure Covid-19 Ag CARD	N	100,00%	100,00%	80,00%	96,00%	y	n
+AT848/21				04A024			TBG Biotechnology Xiamen Inc.	TBG SARS-CoV-2 Antigen Rapid Test	N	95,00%	80,00%	10,00%	72,00%	y	n
+AT379/20				2276-20			Toda Pharma	Toda Coronadiag Ag	N	100,00%	95,70%	40,00%	86,00%	y	n
+AT044/21				C011906			Triplex International Biosciences (China) Co., Ltd.	SARS-CoV-2 Antigen Rapid Test Kit	N	100,00%	87,00%	20,00%	78,00%	y	n
+AT492/20		AT1222/21		RTCV03			Türklab Tibbi Malzemeleri San. Ve Tic. A.S	Rapidan Tester COVID-19 Ag Test	N	90,00%	10,00%	0,00%	40,00%	y	y
+AT075/21				012G521			ulti med Products (Deutschland) GmbH	COVID-19 Antigen Speicheltest (Immunochromatographie)	N	100,00%	95,70%	20,00%	82,00%	y	y
+AT507/20				VSCD02			Vitrosens Biyoteknoloji Ltd. Sti	RapidFor SARS-CoV-2 Rapid Antigen Test Colloidal Gold	N	100,00%	30,40%	0,00%	48,00%	y	y
+AT711/21							Weihai Kangzhou Biotechnology Engineering Co., Ltd.	Kanzone COVID-19 Antigen Rapid Test	N	90,00%	5,00%	0,00%	38,00%	y	n
+AT1160/21				COVA1			Willi Fox GmbH	Willi Fox - COVID-19 Antigen Test	N	100,00%	45,00%	0,00%	58,00%	y	y
+AT430/20		AT1289/21		W-Ag03-20			Wuhan EasyDiagnosis Biomedicine Co., Ltd.	COVID-19 (SARS-CoV-2) Antigen Test Kit	N	100,00%	73,90%	0,00%	68,00%	y	y
+AT997/21				FP-318			Wuhan HealthCare Biotechnology Co., Ltd.	SARS-CoV-2 Antigen Test Kit (Colloidal Gold)	N	90,00%	0,00%	0,00%	36,00%	y	y
+AT172/20				SF24025			Wuhan Life Origin Biotech Joint Stock Co., Ltd.	SARS-CoV-2 Antigen Assay Kit (Immunochromatography)		100,00%	56,50%	0,00%	60,00%	y	n
+AT429/20				CoV2Ag-25			Wuhan UNscience Biotechnology Co., Ltd.	SARS-CoV-2 Antigen Rapid Test Kit	N	88,20%	17,40%	0,00%	38,00%	y	n
+AT847/21				COV-S31			Wuxi Biohermes Bio & Medical Technology Co., Ltd.	SARS-CoV-2 Antigen Test Kit (Lateral Flow Assay)	N	100,00%	60,00%	0,00%	64,00%	y	y
+AT246/21		AT1279/21		CG01Ag-25			Xiamen AmonMed Biotechnology Co., Ltd.	COVID-19 Antigen Rapid Test Kit (Colloidal Gold)	N	100,00%	87,00%	30,00%	80,00%	y	y
+AT116/20		AT1165/21		07AG6020B			Xiamen Boson Biotech Co., Ltd.	SARS-CoV-2 Antigen Schnelltest	N	100,00%	43,50%	0,00%	54,00%	y	n
+AT109/20		AT1297/21		51232012			Xiamen WIZ Biotech Co., Ltd.	Wizbiotech SARS-CoV-2 Antigen Rapid Test	N	88,20%	13,00%	0,00%	36,00%	y	y
+AT311/21							ZandCell AB	ZandCell COVID-19 Saliva Antigen-Test	N	90,00%	5,00%	0,00%	38,00%	y	n
+AT167/20							Zet Medikal Tekstil Dis Ticaret Ltd. STI.	softec SARS COV-2 (Covid-19) Antigen Test Kit	N	82,40%	21,70%	10,00%	40,00%	y	n
+AT102/20				COVG10S			Zhejiang Anji Saianfu Biotech Co.,Ltd.	reOpenTest COVID-19 Antigen Rapid Test (Colloidal Gold)	N	94,10%	30,40%	0,00%	46,00%	y	y
+AT516/21							Zhejiang Gene Science Co., Ltd.	Novel Coronavirus (COVID-19) Antigen Detection Kit (Latex Immunochromatography)	N	100,00%	70,00%	40,00%	76,00%	y	n
+AT039/20				GCCOV-502a			Zhejiang Orient Gene Biotech Co.,Ltd	Coronavirus Ag Rapid Test Cassette (Swab)	N	100,00%	87,00%	0,00%	76,00%	y	n
+AT839/21							Zhongxiu Science and Technology Co., Ltd	Neuartiges Coronavirus (2019-nCoV) Antigendetektions-reagenz (immunochromatographischer Assay)	N	100,00%	70,00%	10,00%	70,00%	y	y
+AT583/21				RDC-802			Zhuhai Encode Medical Engineering Co., Ltd.	ENCODE SARS-COV-2 Antigen Rapid Test Device	N	95,00%	15,00%	0,00%	44,00%	y	y
+AT542/21		AT1290/21					Zhuhai Lituo Biotechnology Co., Ltd.	COVID-19 Antigen Detection Kit (Colloidal Gold)	N	100,00%	80,00%	0,00%	72,00%	y	n
+AT506/20				ABCAR-020			Absology Co.,Ltd.	INIST COVID-19 Ag Rapid	N	0,00%	0,00%	0,00%	0,00%	n	n
+AT054/20				INCP-ACO502			Acro Biotech, Inc.	Acro COVID-19 Antigen Rapid Test		16,70%	0,00%	0,00%	6,00%	n	n
+AT469/20				AKBR4019020			Aikang Diagnostics Co., Ltd.	SARS-CoV-2 Antigen Test Kit (Immunochromatography)	N	11,80%	0,00%	0,00%	4,00%	n	n
+AT163/20				MPV: M30020-01	MPV: M30020-02		Beijing Savant Biotechnology Co., Ltd.	New Coronavirus (SARS-CoV-2) N Protein Detection Kit (Fluorescence Immunchromatography)	N	0,00%	0,00%	0,00%	0,00%	n	n
+AT586/21				RAPG-CVA-019			Biopanda Reagents	COVID-19 Antigen-Schnelltest	N	60,00%	0,00%	0,00%	24,00%	n	n
+AT051/20				SC820001PC			CertestT Biotec S. L.	CerTest Biotec SARS-CoV-2 Ag Test	N	29,40%	0,00%	0,00%	10,00%	n	n
+AT543/21							Changsha Sanji Bio-technology Co., Ltd	SARS-CoV-2 Antigen Rapid Test (Laterial Flow Method)	N	20,00%	0,00%	0,00%	8,00%	n	n
+AT048/20				C-1023			Coris BioConcept	COVID-19 Ag Respi-Strip	N	33,30%	0,00%	0,00%	12,00%	n	n
+AT715/21				DCOV-201			Dejavu Medikal San. Ve Tic. Ltd. Sti.	COVID-19 Antigen Schnelltest	N	70,00%	0,00%	0,00%	28,00%	n	n
+AT573/21				S03#			Diasia Biomedical Technology Co., Ltd.	DIASIA SARS-CoV-2 Antigen Rapid Test Kit	N	55,00%	0,00%	0,00%	22,00%	n	n
+AT712/21							Essa Commerce Bilisim ve Ithalat Ihracat Tic.A.S.	Bioessa SARS-CoV-2 Antigen Schnelltest	N	0,00%	0,00%	0,00%	0,00%	n	n
+AT899/21				FRTFT02			FAGO MEDIKAL San. Tic. Ltd	FAMEX® SARS-CoV-2 Ag Rapid Nasopharyngeal Test Kit	N	20,00%	0,00%	0,00%	8,00%	n	n
+AT819/21				BQ-03012			Foregene Co.,Ltd.	FOREGENE SARS-CoV-2 Antigen Test Kit	N	30,00%	0,00%	0,00%	12,00%	n	n
+AT201/20				ICOV-502			Hangzhou AllTest Biotech Co. Ltd.	COVID-19 Antigen Rapid Test (Nasopharyngeal swab)		16,70%	0,00%	0,00%	6,00%	n	n
+AT972/21				BSK01S1S			Hangzhou Bioer Technology Co., Ltd.	BIOflux SARS-CoV-2 Antigen Test Kit (colloidal gold method)	N	60,00%	0,00%	0,00%	24,00%	n	n
+AT041/20				INCP-C81-20			Hangzhou Biotest Biotech Co., Ltd.	Lumiratek SARS-CoV-2 Antigen Rapid Test Cassette	N	29,40%	0,00%	0,00%	10,00%	n	n
+AT662/21							Hangzhou Fanttest Biotech Co.,Ltd.	Fanttest Novel Coronavirus(SARS-CoV-2) Antigen Rapid Test Cassette	N	0,00%	0,00%	0,00%	0,00%	n	n
+AT015/20				K511416D			Hangzhou Realy Tech Co., Ltd.	Novel Coronavirus (SARS-Cov-2) Antigen Rapid Test Cassette (swab)		58,80%	0,00%	0,00%	20,00%	n	n
+AT088/21				K590516D			Hangzhou Realy Tech Co., Ltd.	Heinzer Antigen Covid19 Spucktest Schnelltest [Original Name: Novel Coronavirus (SARS-CoV-2) Antigen Rapid Test Device (saliva)]	N+S	65,00%	5,00%	0,00%	28,00%	n	n
+AT437/21							Hangzhou Singclean Medical Products Co., Ltd.	COVID-19 Test Kit (Colloidal Gold Method)	N	0,00%	0,00%	0,00%	0,00%	n	n
+AT160/20				P211134			Hangzhou Genesis Biocontrol Co., Ltd	KaiBiLi COVID-19 Antigen Rapid Test Device	N	52,90%	0,00%	0,00%	18,00%	n	n
+AT139/20				BCOV-502			Inzek International Trading B.V	BIOZEK COVID-19-Antigen-Schnelltestkassette		52,90%	0,00%	0,00%	18,00%	n	n
+AT178/20							Joinstar Biomedical Technology Co., Ltd	COVID-19 Antigen Rapid Test (Latex)	S	0,00%	0,00%	0,00%	0,00%	n	n
+AT046/20				G10313			Joysbio (Tianjin) Biotechnology Co., Ltd.	Joysbio SARS-CoV-2 Antigen Rapid Test Kit (Colloidal Gold)	N	47,10%	4,30%	0,00%	18,00%	n	n
+AT487/21				NCV11			Koch Biotechnology (Beijing) Co., Ltd.	COVID-19 Antigen Rapid Test Kit	N	60,00%	0,00%	0,00%	24,00%	n	n
+AT684/21							LiClear Biotech (Hangzhou) Co., Ltd.	SARS-COV-2 Nucleocapsid (N) Antigen Rapid Test (VIDA TEST Rapid Diagnostic Test)	N	0,00%	0,00%	0,00%	0,00%	n	n
+AT400/20				I00053			Lionex GmbH	Lionex COVID-19 Ag Rapid Test	S	0,00%	0,00%	0,00%	0,00%	n	n
+AT171/20				MICOG-502 (B2503)			Medicon Co., Ltd.	Trueline COVID-19 Ag Rapid Test	N+S	58,80%	4,30%	0,00%	22,00%	n	n
+AT007/20				3011030			Mexacare GmbH Heidelberg	QuickTestCorona COVID-19 Antigen Schnelltest	N	52,90%	4,30%	0,00%	20,00%	n	n
+AT470/20				243104D-20			nal von minden GmbH	dedicio Medical Test COVID-19 Ag plus Test	N	35,30%	0,00%	0,00%	12,00%	n	n
+AT013/20				G61RHA20			RapiGEN, Inc.	Biocredit COVID-19 Ag		16,70%	0,00%	0,00%	6,00%	n	n
+AT302/21				RCCOVAG			Redcell Bioteknoloji Anim Sirketi	COVID-19 Antigen Test	N	0,00%	0,00%	0,00%	0,00%	n	n
+AT036/20				C34800-100			Servoprax GmbH	Cleartest Corona-Antigen		66,70%	0,00%	0,00%	24,00%	n	n
+AT242/21				SG0010A			SG Diagnostics Pte Ltd	SG Diagnostics COVID-19 Antigen Rapid Test Kit (Colloidal Gold-Based)	N	50,00%	0,00%	0,00%	20,00%	n	n
+AT932/21							ShanDong ThinkLabor Biotechnology Co.,Ltd.	Coronavirus Ag Schnelltest Kassette (Tupfer)	N	0,00%	0,00%	0,00%	0,00%	n	n
+AT777/21							Shenzhen Landwind Biotechnology Co., Ltd.	Landwind SARS-CoV-2 Antigen Test Kit (Colloidal Gold)	N	55,00%	0,00%	0,00%	22,00%	n	n
+AT225/20				SP-SW 106			Spring Healthcare Services Sp zoo	SARS-Cov-2 Antigen Rapid Test Cassette (swab)	N+S	29,40%	0,00%	0,00%	10,00%	n	n
+AT186/20				COVID19AGVC			SureScreen Diagnostics Ltd.	COVID-19 Antigen Rapid Test Cassette	N	52,90%	0,00%	0,00%	18,00%	n	n
+AT128/20							TaiDoc Technology Corporation	FORA COVID-19 ANTIGEN RAPID TEST	N	27,80%	0,00%	0,00%	10,00%	n	n
+AT002/20				B25SY0E1L			Unioninvest	Unibioscience COVID-19 Rapid Antigen Test	N	0,00%	0,00%	0,00%	0,00%	n	n
+AT315/21				VS200602			Vision Biyoteknologi Arastirma Gelistirme Labt. Sist. San ve Tic LTD STI	VISION® SARS-CoV-2 Saliva Antigen Rapid Test Kit	N	45,00%	10,00%	0,00%	22,00%	n	n
+AT062/20				VCD05-01-011			VivaChek Biotech (Hangzhou) Co., Ltd.	VivaDiag SARS-CoV-2 Ag Rapid Test	N	50,00%	0,00%	0,00%	18,00%	n	n
+AT294/20				VCD16-01-011			VivaChek Biotech (Hangzhou) Co., Ltd.	VivaDiag Pro SARS-CoV-2 Ag Rapid Test	N	64,70%	0,00%	0,00%	22,00%	n	n
+AT218/20				FSSA-CK20			W.H.P.M, Inc.	First Sign SARS-CoV-2 Antigen Test	N	47,10%	0,00%	0,00%	16,00%	n	n
+AT001/21							Xiamen Jiqing Biomedical Technology Co., Ltd.	Gruenbanka SARS-CoV-2 Antigen detection Kit (colloidal gold method)	N	25,00%	0,00%	0,00%	10,00%	n	n
+AT012/21							Xiamen Zhongsheng Langjie Biotechnology Co., Ltd	Covid-19 Antigen Test Cassette	N	11,80%	0,00%	0,00%	4,00%	n	n
